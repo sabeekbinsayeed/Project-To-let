@@ -1,0 +1,175 @@
+#header_div{
+	width: 100%;
+	background-color: #BE6BF5 ;
+	text-align: center;
+}
+#post_add{
+	display: inline-block;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	
+	
+}
+
+#post-add-btn{
+	background-color:#000000;
+	color: #BE6BF5 ;
+
+}
+#post-add-btn:hover{
+	background-color: #BE6BF5;
+	color: #000000;
+	border-color: #000000 ;
+
+}
+.btn.btn-primary:active,
+.btn.btn-primary:hover,
+.btn.btn-primary:focus {
+  background-color: orange !important;
+}
+
+
+#sign-in-button{
+	background-color:#BE6BF5 ;
+	border-color: #000000 ;
+	outline: none; 
+    color: #000000;
+
+
+}
+
+#sign-in-button:hover{
+	background-color: #000000;
+	color: #BE6BF5;
+	border-color:  #BE6BF5 ;
+
+}
+
+#sign_in{
+	text-align: center;
+	
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+	
+}
+
+#sign-in-dropdown{
+}
+
+#search_panel{
+	
+	padding:100px;
+	padding-top: 200px ; 
+	background: url("../images/bg1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh; 
+	width: 100% ;
+	
+}
+#search-text{
+	text-align: center;
+	font-size: xx-large;
+	font-style: bold; 
+	margin-bottom: 100px;
+}
+
+#Search_Button{
+	background-color: #ffffff;
+	color: #000000;
+	margin: 10px;
+	opacity: 1;
+}
+
+#Translu{
+	text-align: center ;
+    background-color:rgba(190,107,245,0.8);
+	padding: 10px;
+    border-radius: 10px;
+}
+
+#dropdown_type_Button{
+	background-color: #ffffff;
+	color: #000000;
+	margin: 10px;
+	opacity: 1;
+	
+}
+
+#dropdown_area_Button{
+	
+	background-color: #ffffff;
+	color: #000000;
+	margin: 10px;
+	opacity: 1;
+}
+
+
+
+#footer_div{
+	background-color: #000000 ;
+	text-align: center ;
+	padding-top: 5px;
+	padding-bottom: 1px;
+}
+
+
+
+#logo{
+	width: 200px ;
+	padding-top: 5px;
+	
+}
+#logo_small{
+	height: 70px;
+	padding-top: 10px;
+	
+}
+
+#logo_div{
+	text-align: center;
+	
+}
+#filter_div{
+	width: 100%;
+	background-color: #000000;
+	
+}
+
+#postad_main_div{
+    margin-top: 50px;
+    
+    margin-bottom: 50px;
+
+}
+
+#image_uploader{
+    margin: 20px;
+    padding:20px;
+    background-color:rgba(190,107,245,0.3);
+    
+}
+
+#property_information_form{
+    margin: 20px;
+    
+    padding:20px;
+    
+    background-color:rgba(190,107,245,0.3);
+}
+
+
+.row.Proterty-item{
+    text-align: center;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+.container{
+	
+}
